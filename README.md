@@ -8,7 +8,7 @@
 A desktop tool that **analyses a folder of training audio** and recommends **HOT-Step LoRA training settings**. After a trial run you give it **feedback**, and you can **calibrate** it on the settings that actually worked, so its recommendations for new datasets get closer to what makes good LoRAs.
 
 > [!NOTE]
-> The recommendations come from heuristic formulas, not from a trained model. Treat them as a **starting point** and use the calibration tab to tune them to your own results.
+> The recommendations come from heuristic formulas, not from a trained model. Treat them as a **starting point** and use the calibration tab to tune them to your own results. It has already been calibrated twice & since I do not have access to all variations of all datasets, I cannot make one set of calibration files to fit all. This provides a good starting point based on the specifics of the provided dataset.  
 
 ---
 
