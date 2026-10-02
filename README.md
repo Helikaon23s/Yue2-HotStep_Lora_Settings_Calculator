@@ -26,7 +26,7 @@ A desktop tool that **analyses a folder of training audio** and recommends **HOT
 
 ## 🟦 Features
 
-- 🔎 **Dataset analysis** of `.wav`, `.flac`, `.mp3` and `.ogg` files, with chunked files grouped back into their parent tracks
+- 🔎 **Dataset analysis** of `.wav`, `.flac` & `.mp3` files, with chunked files grouped back into their parent tracks
 - 🏷️ **Caption check** that reads **only** `<trackname>.yue2.txt` files (one line of comma-separated tags)
 - 🧮 **Recommended settings** for rank, alpha, steps, learning rate, planner scale, timing loss weight, caption dropout, decay steps, decay shape and accumulation
 - 🔁 **Feedback loop** using **Instruments** and **Vocals** verdicts (Weak / Good / Overcooked) and the best peak step
