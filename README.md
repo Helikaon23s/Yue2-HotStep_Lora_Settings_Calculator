@@ -1,4 +1,4 @@
-# 🎛️ HOT-Step LoRA Training Parameter Calculator
+# 🎛️ HOT-Step Yue2 LoRA Training Parameter Calculator
 
 ![Python](https://img.shields.io/badge/python-3.12%20tested-blue?logo=python&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
